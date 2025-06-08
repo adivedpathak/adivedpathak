@@ -1,28 +1,32 @@
 # 💫 About Me:
 👋 Hello! I'm **Aditya Vedpathak**  
-🎓 3rd Year Computer Engineering Student  
+🎓 4th Year Computer Engineering Student  
 📍 Pimpri Chinchwad College of Engineering  
-
 💻 **Android & Web Developer**  
 Passionate about crafting intuitive and high-impact digital experiences. My focus lies in building seamless, scalable, and efficient applications with a strong emphasis on clean UI/UX. Always curious and driven to learn new technologies and frameworks.
 
 ---
 
-## 🚀 What I’m Up To:
-🔭 Currently working on:  *AI based web applications using React js*
+## 🏆 Achievements & Recognition:
+🥉 **3rd Prize** - Techfiesta International Hackathon (Education Domain)  
+🥇 **1st Prize** - HackMatrix National Hackathon (Education Domain)  
+🥈 **2nd Prize** - UI Wars Hackathon  
+🎯 **Finalist** - AlphaByte National Hackathon  
 
+*Consistently delivering innovative solutions in education technology and user interface design*
+
+---
+
+## 🚀 What I'm Up To:
+🔭 Currently working on:  *AI based web applications using React js*  
 👯 Looking to collaborate on:  
-*Open-source projects, startup ideas, and impactful apps.*
-
+*Open-source projects, startup ideas, and impactful apps.*  
 🤝 Looking for help with:  
-*Advanced system design, DevOps practices.*
-
+*Advanced system design, DevOps practices.*  
 🌱 Currently learning:  
-*Kubernetes, Docker, CI/CD pipelines, and Machine Learning basics.*
-
+*Kubernetes, Docker, CI/CD pipelines, and Machine Learning basics.*  
 💬 Ask me about:  
-*Jetpack Compose, MERN stack, Firebase integrations, deploying full-stack apps.*
-
+*Jetpack Compose, MERN stack, Firebase integrations, deploying full-stack apps.*  
 ⚡ Fun fact:  
 *I love debugging more than writing code (sometimes 😉).*
 
